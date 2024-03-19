@@ -116,7 +116,7 @@ The `StringBuilder` class in Java provides a mutable sequence of characters, whi
 
 
 ```java
-String[] = {'e','s','o','p'}
+String[] arr= {'e','s','o','p'}
 String ans = String.valueOf(arr);
 ```
 
